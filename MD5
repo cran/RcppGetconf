@@ -1,0 +1,14 @@
+d656b740e33e9684986e102e2e43e7cb *ChangeLog
+f34fc531bcaa124db68a8a23d86fddb3 *DESCRIPTION
+6e80b5660de4ff05afcd765ba1eb6acb *NAMESPACE
+f620a30692aacab3cded7d8c4a77a7a6 *R/RcppExports.R
+eaf897074e829bf9d65d18e15435ce67 *README.md
+9b820a7b2481729a7183d97bd85a9111 *cleanup
+24be02396133fc68523d1f187c612c42 *configure
+83993a6577d1e2c4d648aa35329f65e7 *man/getAll.Rd
+318c318e346a0dec9003036145a6cef5 *src/Makevars
+178aee8796167cd12ebbd9af30940bcb *src/RcppExports.cpp
+ae532cb059442776573c0b4ef504dcf0 *src/getconf.cpp
+bcfc94e87ee355e855bbcce9cde0afb7 *src/includes/gen-posix-conf-vars.awk
+5d8f2b3e1a9d1ad5d7b1b4c7cbf64cda *src/includes/posix-conf-vars.h
+bcdc8e99d5b1a8a1b31c83361c9c946d *src/includes/posix-conf-vars.list
